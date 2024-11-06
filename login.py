@@ -102,7 +102,7 @@ class LoginScreen(tk.Frame):
         username = self.username_entry.get()
         password = self.password_entry.get()
         
-        http://127.0.0.1:8000/api/login
+       
 
         # Ensure both username and password are filled
         if username and password:
